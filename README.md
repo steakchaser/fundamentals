@@ -19,7 +19,7 @@ Use cases:
 4. Get the number of nodes (size) in a tree
 
 TODO:
-[ ] Remove all of the duplicated calls to check if left and right are nil
+- [ ] Remove all of the duplicated calls to check if left and right are nil
 
 ### Boggle
 
@@ -30,5 +30,5 @@ Why?
 2. Illustrates impacts of an exponential big O
 
 TODO:
-[ ] Make it much faster
-[ ] Write specs
+- [ ] Make it much faster
+- [ ] Write specs
